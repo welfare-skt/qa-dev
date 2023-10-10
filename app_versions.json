@@ -4,6 +4,10 @@
 			{
 				"version": "welfare-1.8.0-dev",
 				"link": "https://www.dropbox.com/scl/fi/tbvl8u58z3l3vslgyxid9/welfare-1.8.0-dev.apk?rlkey=1u3udhi1vdh31t356i226le18&dl=0"
+			},
+			{
+				"version": "welfare-1.9.0-dev",
+				"link": "https://www.dropbox.com/scl/fi/b5v6myd4kt8ah4129jnkv/welfare-1.9.0-dev.apk?rlkey=dy67qhtjvp1kbwdczjfi4gog2&dl=0"
 			}
 		],
 		"qa": [
@@ -24,14 +28,18 @@
 				"link": "https://www.dropbox.com/scl/fi/tfvlj4130azgxot156xjv/welfare-1.8.3-qa.apk?rlkey=3uh3xi8mqnybb1ma1rq4mrcwh&dl=0"
 			},
 			{
-				"version": "welfare-1.8.4-qa",
-				"link": "https://www.dropbox.com/scl/fi/46mj8bnei5cjf41nps5cz/welfare-1.8.4-qa.apk?rlkey=aw2doo6nioukqok3273rzl2a1&dl=0"
+				"version": "welfare-1.9.0-qa",
+				"link": "https://www.dropbox.com/scl/fi/46mj8bnei5cjf41nps5cz/welfare-1.9.0-qa.apk?rlkey=aw2doo6nioukqok3273rzl2a1&dl=0"
 			}
 		],
 		"prod": [
 			{
 				"version": "welfare-1.8.0-prd",
 				"link": "https://www.dropbox.com/scl/fi/cnkzlip58qkulxh52s2fq/welfare-1.8.0-prd.apk?rlkey=bmphm8c5qu527zm94mtja1b3z&dl=0"
+			},
+			{
+				"version": "welfare-1.9.0-prd",
+				"link": "https://www.dropbox.com/scl/fi/xxgyr1sc9grc5not6ti79/welfare-1.9.0-prd.apk?rlkey=ntjm0rh6zgrofxuhy24e63oja&dl=0"
 			}
 		]
 	},
