@@ -48,6 +48,10 @@
 			{
 				"version": "Welfare_1.5.0_dev",
 				"link": "https://www.dropbox.com/scl/fi/vwzhfl0unm1gi8htucdf8/manifest_1.5.0.plist?rlkey=2f3q820z3r2zk91iiwom7zffa&dl=0"
+			},
+			{
+				"version": "Welfare_1.6.0_dev",
+				"link": "https://www.dropbox.com/scl/fi/qehtqmn7vsa33oql4gp80/manifest_1.6.0.plist?rlkey=yh4ovn0otw6r2u8ecphku3j6b&dl=0"
 			}
 		],
 		"qa": [
@@ -62,12 +66,20 @@
 			{
 				"version": "Welfare_1.5.2_qa",
 				"link": "https://www.dropbox.com/scl/fi/pbp27wqmq2yetqrnmmvyt/manifest_1.5.2.plist?rlkey=ta4o5g0yzod1bjde6us9tro8n&dl=0"
+			},
+			{
+				"version": "Welfare_1.6.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/doz8f96n207wqoi8uy6ny/manifest_1.6.0.plist?rlkey=6mvdulb39kgt5st6bjpv03xsq&dl=0"
 			}
 		],
 		"prod": [
 			{
 				"version": "Welfare_1.5.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/wci60ws9j2qgc9w3dkgjt/manifest_1.5.0.plist?rlkey=f5iibzt2t0q0y23pjfxan2dqj&dl=0"
+			},
+			{
+				"version": "Welfare_1.6.0_prod",
+				"link": "https://www.dropbox.com/scl/fi/em541q74vbz9px2e6crkp/manifest_1.6.0.plist?rlkey=o89urw4m4a6u2569vabpk8xuo&dl=0"
 			}
 		]
 	}
