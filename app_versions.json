@@ -52,6 +52,10 @@
 			{
 				"version": "welfare-1.10.0-prd",
 				"link": "https://www.dropbox.com/scl/fi/ni3ve09mjsjw3ada070fl/welfare-1.10.0-prd.apk?rlkey=kgq90p6qwyo49sw49hlzt10ss&dl=0"
+			},
+			{
+				"version": "welfare-1.11.0-prd",
+				"link": "https://www.dropbox.com/scl/fi/hvtief4h84aa6mw1at3nf/welfare-1.10.1-prd.apk?rlkey=pl1go8p5wdvjhfc6wyu1bsyft&dl=0"
 			}
 		]
 	},
@@ -104,6 +108,10 @@
 			{
 				"version": "Welfare_1.7.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/iahz2volm0pje780grz26/manifest_1.7.0.plist?rlkey=eq8svib59zeu0e47hy7fta0k6&dl=0"
+			},
+			{
+				"version": "Welfare_1.7.1_prod",
+				"link": "https://www.dropbox.com/scl/fi/p0k5reej0ndb6v8038hmw/manifest_1.7.1.plist?rlkey=q2ty1a36mrtud7jq0ze739h9t&dl=0"
 			}
 		]
 	}
