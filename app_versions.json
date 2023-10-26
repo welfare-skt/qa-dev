@@ -8,6 +8,10 @@
 			{
 				"version": "welfare-1.9.0-dev",
 				"link": "https://www.dropbox.com/scl/fi/b5v6myd4kt8ah4129jnkv/welfare-1.9.0-dev.apk?rlkey=dy67qhtjvp1kbwdczjfi4gog2&dl=0"
+			},
+			{
+				"version": "welfare-1.10.0-dev",
+				"link": "https://www.dropbox.com/scl/fi/e9ee17o23ihr0p70bir1d/welfare-1.10.0-dev.apk?rlkey=78bygrvxwa7cg9avj3h81p1do&dl=0"
 			}
 		],
 		"qa": [
@@ -30,6 +34,10 @@
 			{
 				"version": "welfare-1.9.0-qa",
 				"link": "https://www.dropbox.com/scl/fi/46mj8bnei5cjf41nps5cz/welfare-1.9.0-qa.apk?rlkey=aw2doo6nioukqok3273rzl2a1&dl=0"
+			},
+			{
+				"version": "welfare-1.10.0-qa",
+				"link": "https://www.dropbox.com/scl/fi/hhwop0vv4tdhjdwcpg0bt/welfare-1.10.0-qa.apk?rlkey=l2yxdiul6txgqu0b9x7bmprdk&dl=0"
 			}
 		],
 		"prod": [
@@ -40,6 +48,10 @@
 			{
 				"version": "welfare-1.9.0-prd",
 				"link": "https://www.dropbox.com/scl/fi/xxgyr1sc9grc5not6ti79/welfare-1.9.0-prd.apk?rlkey=ntjm0rh6zgrofxuhy24e63oja&dl=0"
+			},
+			{
+				"version": "welfare-1.10.0-prd",
+				"link": "https://www.dropbox.com/scl/fi/ni3ve09mjsjw3ada070fl/welfare-1.10.0-prd.apk?rlkey=kgq90p6qwyo49sw49hlzt10ss&dl=0"
 			}
 		]
 	},
@@ -52,6 +64,10 @@
 			{
 				"version": "Welfare_1.6.0_dev",
 				"link": "https://www.dropbox.com/scl/fi/qehtqmn7vsa33oql4gp80/manifest_1.6.0.plist?rlkey=yh4ovn0otw6r2u8ecphku3j6b&dl=0"
+			},
+			{
+				"version": "Welfare_1.7.0_dev",
+				"link": "https://www.dropbox.com/scl/fi/546whqxv0nss8hy5ommtu/manifest_1.7.0.plist?rlkey=84kui5r0hfodttgar535rs15n&dl=0"
 			}
 		],
 		"qa": [
@@ -70,6 +86,10 @@
 			{
 				"version": "Welfare_1.6.0_qa",
 				"link": "https://www.dropbox.com/scl/fi/doz8f96n207wqoi8uy6ny/manifest_1.6.0.plist?rlkey=6mvdulb39kgt5st6bjpv03xsq&dl=0"
+			},
+			{
+				"version": "Welfare_1.7.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/qvejii8lqu7y67lu1zbr5/manifest_1.7.0.plist?rlkey=5x3ww2uo8aljefeshld7ef1mo&dl=0"
 			}
 		],
 		"prod": [
@@ -80,6 +100,10 @@
 			{
 				"version": "Welfare_1.6.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/em541q74vbz9px2e6crkp/manifest_1.6.0.plist?rlkey=o89urw4m4a6u2569vabpk8xuo&dl=0"
+			},
+			{
+				"version": "Welfare_1.7.0_prod",
+				"link": "https://www.dropbox.com/scl/fi/iahz2volm0pje780grz26/manifest_1.7.0.plist?rlkey=eq8svib59zeu0e47hy7fta0k6&dl=0"
 			}
 		]
 	}
