@@ -140,6 +140,11 @@
 				"version": "Welfare_2.4.0_dev",
 				"link": "https://www.dropbox.com/scl/fi/2a2xyk08rpiij01gvsbh4/manifest_2.4.0.plist?rlkey=vm03uj0nng6dsl1t0emveox7v&st=k5p27q27&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/5nv4ts94zyjduh9fwzjsn/Welfare_2.4.0_dev.ipa?rlkey=yaynq9mtyp52w3ykqzxw4vcqk&st=ytl6ztjz&dl=0"
+			},
+			{
+				"version": "Welfare_2.5.0_dev",
+				"link": "https://www.dropbox.com/scl/fi/c03274pnu3dpe0edpbx2n/manifest_2.5.0.plist?rlkey=5ql24nsvko4cdglmrzsocfpuk&st=1i4fckci&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/q0u1avv6d58dnwgpy3na6/Welfare_2.5.0_dev.ipa?rlkey=rhkp4bkp8bne96bba3lkkkzop&st=d52ymqcp&dl=0"
 			}
 		],
 		"qa": [
@@ -197,6 +202,11 @@
 				"version": "Welfare_2.4.1_qa",
 				"link": "https://www.dropbox.com/scl/fi/xsjyv17llur17xx7kjhi9/manifest_2.4.1.plist?rlkey=pv7268ixdcj7qam5ovr8ufvim&st=5ahft7pw&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/1idlfk4jmlbi4q0ywfwss/Welfare_2.4.1_qa.ipa?rlkey=cenuhl5q1spt1uy19ytb62rfe&st=ginjt6fi&dl=0"
+			},
+			{
+				"version": "Welfare_2.5.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/z3zakikf6lzo44rzohb28/manifest_2.5.0.plist?rlkey=f969g0j5nrodk5u8mz3ltwjpr&st=psozmu6z&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/tjavamqfweau5m185lymk/Welfare_2.5.0_qa.ipa?rlkey=jv5eypthwjudrxky4fcy2kgoe&st=3kqja1pr&dl=0"
 			}
 		],
 		"prod": [
@@ -254,6 +264,11 @@
 				"version": "Welfare_2.4.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/juy0y9n45hg28gzpn64mc/manifest_2.4.0.plist?rlkey=6k6xq6bu78lq4qatj96u641q5&st=x05dklg0&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/j9q8et9cir2v9mg5c081w/Welfare_2.4.0_prod.ipa?rlkey=9gyjx6lnmn61letflond2hswt&st=fjr09304&dl=0"
+			},
+			{
+				"version": "Welfare_2.5.0_prod",
+				"link": "https://www.dropbox.com/scl/fi/v55mce07at1tddth4giqh/manifest_2.5.0.plist?rlkey=femp5ihuzekz8q8f1lxbdf7ft&st=7mbcnlpn&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/oqtjw7ernubmfmbjzmly7/Welfare_2.5.0_prod.ipa?rlkey=waeudtlzjzqgcg3z5aktx7g2w&st=ddz5uyoh&dl=0"
 			}
 		]
 	}
