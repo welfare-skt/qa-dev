@@ -24,6 +24,10 @@
 			{
 				"version": "welfare-2.0.0-dev",
 				"link": "https://www.dropbox.com/scl/fi/1ugdu2ubj4wge0vr8a2gd/welfare-2.0.0-dev.apk?rlkey=5txkyb0gsp73bf7b9c80omat1&st=ah67k34y&dl=0"
+			},
+			{
+				"version": "welfare-2.1.0-dev",
+				"link": "https://www.dropbox.com/scl/fi/8foe3ewmvw8qos8ukgi1j/welfare-2.1.0-dev.apk?rlkey=5rm1b44cq1qi1ogjfgxjlhifb&st=hmgxjomr&dl=0"
 			}
 		],
 		"qa": [
@@ -62,6 +66,10 @@
 			{
 				"version": "welfare-2.0.0-qa",
 				"link": "https://www.dropbox.com/scl/fi/zl22v7pbgeyf6uk32rjrx/welfare-2.0.0-qa.apk?rlkey=70xptrs6799sxo2f8ml1blmwr&st=2g4bwfbh&dl=0"
+			},
+			{
+				"version": "welfare-2.1.0-qa",
+				"link": "https://www.dropbox.com/scl/fi/mz0hudgz3xgr65rv0kp5s/welfare-2.1.0-qa.apk?rlkey=0ue6lsoa5asblr7ux16y785ba&st=vwiyvi01&dl=0"
 			}
 		],
 		"prod": [
@@ -96,6 +104,10 @@
 			{
 				"version": "welfare-2.0.0-prd",
 				"link": "https://www.dropbox.com/scl/fi/7fgggkzekxibzc8j9qqxj/welfare-2.0.0-prd.apk?rlkey=x8ie9zozuqqn6lrkf3rc9chts&st=ow5wkse3&dl=0"
+			},
+			{
+				"version": "welfare-2.1.0-prd",
+				"link": "https://www.dropbox.com/scl/fi/18zt7dhup9nbfbldey3x3/welfare-2.1.0-prd.apk?rlkey=pcq1l3egvmxxwko9eqxor4h29&st=pi7rzttp&dl=0"
 			}
 		]
 	},
