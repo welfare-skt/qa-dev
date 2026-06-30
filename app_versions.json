@@ -174,6 +174,11 @@
 				"version": "Welfare_2.7.0_dev",
 				"link": "https://www.dropbox.com/scl/fi/tss22kovbijff7658c0m2/manifest_2.7.0_dev.plist?rlkey=spj7yg7pvvoj71h32ueuzvews&st=w5ot21nl&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/f840p8n1w2aetq3lzegg6/Welfare_2.7.0_dev.ipa?rlkey=5ucgka47a16wu66d0bgz4e3ez&st=3cm2tevn&dl=0"
+			},
+			{
+				"version": "Welfare_2.8.0_dev",
+				"link": "https://www.dropbox.com/scl/fi/4inkkotyvteb06wv6m93i/manifest_2.8.0_dev.plist?rlkey=2gn8thlnzfzzmzjzupq5fs1cl&st=isidyxrp&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/yhcx3xg1x59ziv9deuhjj/Welfare_2.8.0_dev.ipa?rlkey=9zr8fg96iileal6k87zbsdyl4&st=gbx9upky&dl=0"
 			}
 		],
 		"qa": [
@@ -251,6 +256,11 @@
 				"version": "Welfare_2.7.0_qa",
 				"link": "https://www.dropbox.com/scl/fi/k7i7ky90geeigt5evk1f5/manifest_2.7.0_qa.plist?rlkey=68sfi8jpph7jks1a5h122cjut&st=o7o5x2uz&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/fjvglvt90qp0u1xfa9nlm/Welfare_2.7.0_qa.ipa?rlkey=dtwia9gxigb9c3fjjqrrjdc60&st=qop6to3d&dl=0"
+			},
+			{
+				"version": "Welfare_2.8.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/2ryhkurgz7fd7560j3bwy/manifest_2.8.0_qa.plist?rlkey=30xbzcj1qfbco2aqdf2izfdu9&st=eonkfnkn&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/uc6pkw5pwqrxflbb8i5hj/Welfare_2.8.0_qa.ipa?rlkey=10eck5w5993eszktvlfibn45d&st=ikggqkdk&dl=0"
 			}
 		],
 		"prod": [
@@ -318,6 +328,11 @@
 				"version": "Welfare_2.7.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/so2jf0egjyzn3bi0cgmm4/manifest_2.7.0.plist?rlkey=w1h6ir3uy1ibsqomn8tx0nl8m&st=5vpbtp5o&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/3nchbi3rj4319zz4lc6xy/Welfare_2.7.0_prod.ipa?rlkey=gjgsy8r5mhxgi6nowkff49ms0&st=yo36di3u&dl=0"
+			},
+			{
+				"version": "Welfare_2.8.0_prod",
+				"link": "https://www.dropbox.com/scl/fi/8f4lotjdk46ndo1g4tua4/manifest_2.8.0.plist?rlkey=ta9zvwbh4lqho40nefrrjynnu&st=7xun2fvn&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/gmmddldwf8az4isz62xqg/Welfare_2.8.0_prod.ipa?rlkey=qsi6k8k4ezcyurrohidkua4wp&st=ivtmxqyv&dl=0"
 			}
 		]
 	}
