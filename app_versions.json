@@ -179,6 +179,11 @@
 				"version": "Welfare_2.8.0_dev",
 				"link": "https://www.dropbox.com/scl/fi/4inkkotyvteb06wv6m93i/manifest_2.8.0_dev.plist?rlkey=2gn8thlnzfzzmzjzupq5fs1cl&st=isidyxrp&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/yhcx3xg1x59ziv9deuhjj/Welfare_2.8.0_dev.ipa?rlkey=9zr8fg96iileal6k87zbsdyl4&st=gbx9upky&dl=0"
+			},
+			{
+				"version": "Welfare_2.9.0_dev",
+				"link": "https://www.dropbox.com/scl/fi/2ewx7jrdhh7eqbbb17bo2/manifest_2.9.0_dev.plist?rlkey=yca747qscb9j7i04meyidd3qz&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/be5t3vg5oyt890m8a7clm/Welfare_2.9.0_dev.ipa?rlkey=uipzkaotqsv4oh4offfox4d0b&dl=0"
 			}
 		],
 		"qa": [
@@ -261,6 +266,11 @@
 				"version": "Welfare_2.8.0_qa",
 				"link": "https://www.dropbox.com/scl/fi/2ryhkurgz7fd7560j3bwy/manifest_2.8.0_qa.plist?rlkey=30xbzcj1qfbco2aqdf2izfdu9&st=eonkfnkn&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/uc6pkw5pwqrxflbb8i5hj/Welfare_2.8.0_qa.ipa?rlkey=10eck5w5993eszktvlfibn45d&st=ikggqkdk&dl=0"
+			},
+			{
+				"version": "Welfare_2.9.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/45a0hhxxef87iy1ualruc/manifest_2.9.0_qa.plist?rlkey=159nsord1jcguxgakk6a67wn2&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/qamwm165r4e4xbk3o7oqk/Welfare_2.9.0_qa.ipa?rlkey=as8iamvcumrlr6yo3wu432fix&dl=0"
 			}
 		],
 		"prod": [
@@ -333,6 +343,11 @@
 				"version": "Welfare_2.8.0_prod",
 				"link": "https://www.dropbox.com/scl/fi/8f4lotjdk46ndo1g4tua4/manifest_2.8.0.plist?rlkey=ta9zvwbh4lqho40nefrrjynnu&st=7xun2fvn&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/gmmddldwf8az4isz62xqg/Welfare_2.8.0_prod.ipa?rlkey=qsi6k8k4ezcyurrohidkua4wp&st=ivtmxqyv&dl=0"
+			},
+			{
+				"version": "Welfare_2.9.0_prod",
+				"link": "https://www.dropbox.com/scl/fi/vucyn85unp8olwem4lrfj/manifest_2.9.0.plist?rlkey=xhu0djeu59tu9gc982u5r6yxn&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/i9muhz7qqmsf98a9ehm14/Welfare_2.9.0_prod.ipa?rlkey=yxifzqratxiunxkhdnn3p4vob&dl=0"
 			}
 		]
 	}
