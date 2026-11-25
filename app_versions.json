@@ -276,6 +276,11 @@
 				"version": "Welfare_2.10.0_qa",
 				"link": "https://www.dropbox.com/scl/fi/y19fw0ig167nysuak7wfu/manifest_2.10.0_qa.plist?rlkey=zqorrx6hxfpzcd1ogvbgaaba7&dl=0",
 				"file": "https://www.dropbox.com/scl/fi/o8m6a1qqk1bkyz1by9mxm/Welfare_2.10.0_qa.ipa?rlkey=fvpe4mvdm8lhzlnsxfvy4op1x&dl=0"
+			},
+			{
+				"version": "Welfare_3.1.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/63yuxi343ebwh076tgjag/manifest_3.1.0_qa.plist?rlkey=ijoa8q88m3jva917yaxnfsaol&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/689655klqo2ra0budorfg/Welfare_3.1.0_qa.ipa?rlkey=2rpc9dx0oguqj6k0tvc8paxkv&dl=0"
 			}
 		],
 		"prod": [
